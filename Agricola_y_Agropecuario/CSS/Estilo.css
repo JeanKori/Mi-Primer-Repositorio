@@ -2,7 +2,7 @@
 		
 body
 {
-	background-color: #E1E6FA;
+	background-color: #00F233/*#E1E6FA*/;
 	margin: 10px auto; /*Margen del body*/
 	height: 3500px;
 	width: 1300px;
@@ -99,7 +99,8 @@ degradadoPrinci  /*gradiente del body y div principal*/
 
 #Inicio /*espacio del logo*/
 {
-	background-color: #FFF; /*color de fondo del header*/
+	background-color: rgba(0,0,0,.3); /*color de fondo del header*/
+	color: #FFF;
 	text-align: center; /*Orientacion dentro del elemento*/
 	border: solid;
 	border-top: none;
