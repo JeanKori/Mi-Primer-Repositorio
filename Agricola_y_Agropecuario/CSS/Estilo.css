@@ -138,7 +138,8 @@ degradadoPrinci  /*gradiente del body y div principal*/
 
 #nave ul /*estilo del ul*/
 {
-	margin-left: 50%;/*dandole mas espacio del margen izquierdo del ul para darle el estilo que quiero(que las lista se situe del lado derecho)*/
+	margin-left: 30%;/*dandole mas espacio del margen izquierdo del ul para darle el estilo que quiero(que las lista se situe del lado derecho)*/
+	margin-right: 5%;
 }
 
 #nave li /*estilo del menu*/
