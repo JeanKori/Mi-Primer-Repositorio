@@ -2,7 +2,7 @@
 		
 body
 {
-	background-color: #00F233/*#E1E6FA*/;
+	background-color: #152842/*00F233*//*#E1E6FA*/;
 	margin: 10px auto; /*Margen del body*/
 	height: 3500px;
 	width: 1300px;
@@ -510,7 +510,7 @@ li:hover
   /*border: solid;
 	border-color: #000;
 	border-width: 1px;*/
-	background-color: #FFF;
+	background-color: #152842;
 }
 
 .enun3 /*Contenedor del encabezado*/
